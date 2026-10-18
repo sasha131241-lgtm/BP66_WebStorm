@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46968803-4d8f-4d98-8304-c74678b92610" name="Changes" comment="final commit">
+      <change afterPath="$PROJECT_DIR$/L32/js/03-prototip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L32/js/04-spread.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L32/js/05-closures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L32/js/06-var-let-const.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/css/demo_user_timer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/css/main_user_timer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/index-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/index_html.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/index_user_timer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/js/01-arrow-basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/js/02-arrow-basicks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/js/03-context-lost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/js/04-arrow-this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/js/05-context-Dom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/js/06-user-timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_34/js/07-test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/HM37/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/HM37/app1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/HM37/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/Script/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/Script/script1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/Script/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/Script/script3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/Script/script4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/Script/script5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L_37/theory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L32/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/L32/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="tsconfig.json" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/Add_lesson" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sasha131241-lgtm&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1277d538-2948-4635-bf2c-a7739e6fbac0" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sasha131241-lgtm/BP66_WebStorm.git&quot;,
+    &quot;accountId&quot;: &quot;1277d538-2948-4635-bf2c-a7739e6fbac0&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000002522" />
+      <entry key="MS500" value="1.0030225903646912" />
+      <entry key="S2" value="1.2519050031767962" />
+      <entry key="S5" value="2.007170010840146" />
+      <entry key="S10" value="3.1898925423759383" />
+      <entry key="S30" value="6.327411082018641" />
+      <entry key="S60" value="9.258038893940915" />
+      <entry key="M2" value="14.291133738900015" />
+      <entry key="M5" value="30.983017109559505" />
+      <entry key="M10" value="58.82790353728653" />
+      <entry key="M15" value="81.44968653247645" />
+      <entry key="M30" value="127.62447012027695" />
+      <entry key="H1" value="185.98267957220608" />
+      <entry key="H2" value="277.81437987746364" />
+      <entry key="H4" value="432.49991745560556" />
+      <entry key="D1" value="1088.8709852600555" />
+      <entry key="W1" value="1867.5153114642708" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.608821205076007E-64" />
+      <entry key="MS500" value="1.9199473171707677E-13" />
+      <entry key="S2" value="6.910410150001132E-4" />
+      <entry key="S5" value="0.07614393511074591" />
+      <entry key="S10" value="0.4435683926304716" />
+      <entry key="S30" value="1.6805193702923804" />
+      <entry key="S60" value="2.7265289046692427" />
+      <entry key="M2" value="4.231078738298472" />
+      <entry key="M5" value="9.833204489337563" />
+      <entry key="M10" value="19.207028053452177" />
+      <entry key="M15" value="26.497883132060018" />
+      <entry key="M30" value="41.3662066751847" />
+      <entry key="H1" value="61.843061810210536" />
+      <entry key="H2" value="97.68224723466943" />
+      <entry key="H4" value="160.35714398527432" />
+      <entry key="D1" value="415.59607523189015" />
+      <entry key="W1" value="723.3612137833743" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.785067665938411E-4" />
+      <entry key="MS500" value="0.19641575340685158" />
+      <entry key="S2" value="0.8899505237659201" />
+      <entry key="S5" value="1.8828553258382499" />
+      <entry key="S10" value="3.4778090486316264" />
+      <entry key="S30" value="7.892674251512171" />
+      <entry key="S60" value="11.892650632757771" />
+      <entry key="M2" value="18.443649688725102" />
+      <entry key="M5" value="40.740905705224485" />
+      <entry key="M10" value="77.96651759799934" />
+      <entry key="M15" value="107.88649615943997" />
+      <entry key="M30" value="168.94380315135476" />
+      <entry key="H1" value="247.79034557033214" />
+      <entry key="H2" value="375.46878305640035" />
+      <entry key="H4" value="592.8348516674479" />
+      <entry key="D1" value="1504.457941565535" />
+      <entry key="W1" value="2590.874169030898" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JxiQUw0SNBYDhFq7lM1Sz8oxtJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.app1.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WebStorm 2026.2.3/BP-66&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\WebStorm 2026.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WebStorm 2026.2.3\BP-66\L_34\css" />
+      <recent name="C:\WebStorm 2026.2.3\BP-66\practice" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10968.77" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46968803-4d8f-4d98-8304-c74678b92610" name="Changes" comment="" />
+      <created>1790609103304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790609103304</updated>
+      <workItem from="1790609106821" duration="10757000" />
+      <workItem from="1790835516045" duration="4780000" />
+      <workItem from="1791108554475" duration="687000" />
+      <workItem from="1791441832579" duration="842000" />
+      <workItem from="1791442712768" duration="355000" />
+      <workItem from="1791895306175" duration="5495000" />
+      <workItem from="1791985508445" duration="6124000" />
+      <workItem from="1792001702478" duration="112000" />
+      <workItem from="1792001834921" duration="240000" />
+      <workItem from="1792005096544" duration="9708000" />
+      <workItem from="1792225464019" duration="2438000" />
+      <workItem from="1792228661490" duration="7707000" />
+      <workItem from="1792326816592" duration="4245000" />
+      <workItem from="1792331175468" duration="3000" />
+      <workItem from="1792869185380" duration="7438000" />
+      <workItem from="1793603554644" duration="4251000" />
+      <workItem from="1793650796206" duration="2689000" />
+      <workItem from="1793794312812" duration="8980000" />
+      <workItem from="1794071140793" duration="9197000" />
+      <workItem from="1794155274154" duration="9657000" />
+      <workItem from="1794421313223" duration="2598000" />
+      <workItem from="1794423965440" duration="350000" />
+      <workItem from="1794425032328" duration="558000" />
+    </task>
+    <task id="LOCAL-00001" summary="Final HM">
+      <option name="closed" value="true" />
+      <created>1791108736430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791108736431</updated>
+    </task>
+    <task id="LOCAL-00002" summary="L31_DOM: Added input ,Final commit">
+      <option name="closed" value="true" />
+      <created>1792179125906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1792179125906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="L31 class and HM Modules">
+      <option name="closed" value="true" />
+      <created>1792228135762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1792228135762</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HM UserRegistration: Added JavaScript Modules,">
+      <option name="closed" value="true" />
+      <created>1792330999684</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1792330999684</updated>
+    </task>
+    <task id="LOCAL-00005" summary="L32: Added examples for function arguments, destructuring, and basic styling">
+      <option name="closed" value="true" />
+      <created>1792331052796</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792331052796</updated>
+    </task>
+    <task id="LOCAL-00006" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1792331126160</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1792331126161</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final HM" />
+    <MESSAGE value="L31_DOM: Added input ,Final commit" />
+    <MESSAGE value="L31 class and HM Modules" />
+    <MESSAGE value="HM UserRegistration: Added JavaScript Modules," />
+    <MESSAGE value="L32: Added examples for function arguments, destructuring, and basic styling" />
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/L32/js/01-arguments.js</url>
+          <line>61</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
