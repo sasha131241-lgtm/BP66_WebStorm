@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46968803-4d8f-4d98-8304-c74678b92610" name="Changes" comment="final commit">
-      <change beforePath="$PROJECT_DIR$/L_37/HM37/app1.js" beforeDir="false" afterPath="$PROJECT_DIR$/L_37/HM37/app1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +13,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="100" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -202,7 +201,8 @@
       <workItem from="1794421313223" duration="2598000" />
       <workItem from="1794423965440" duration="350000" />
       <workItem from="1794425032328" duration="558000" />
-      <workItem from="1794425690851" duration="382000" />
+      <workItem from="1794425690851" duration="672000" />
+      <workItem from="1794734614156" duration="1715000" />
     </task>
     <task id="LOCAL-00001" summary="Final HM">
       <option name="closed" value="true" />
@@ -260,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794426042867</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="final commit">
+      <option name="closed" value="true" />
+      <created>1794426192704</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1794426192704</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
